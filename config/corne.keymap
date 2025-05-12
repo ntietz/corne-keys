@@ -89,6 +89,8 @@
 &trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans   &trans
                         &trans  &trans  &trans    &trans  &trans  &trans
             >;
+
+            label = "F layer";
         };
     };
 };
